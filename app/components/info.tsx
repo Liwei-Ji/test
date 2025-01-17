@@ -8,7 +8,7 @@ export default function Info() {
         <div className="flex flex-col md:flex-row items-center md:items-start gap-12">
           <div className="md:w-1/3 text-center">
             <h2 className="text-3xl font-bold mb-4">
-              Hi <span className="inline-block animate-wave">👋</span>, I'm LiWei Ji
+              Hi <span className="wave-emoji inline-block transition-transform duration-300 ease-in-out hover:scale-150">👋</span>, I'm LiWei Ji
             </h2>
             <div className="mb-6">
               <Image
